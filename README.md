@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hola, soy Elvis 👨‍💻
 
-<!--
-**Elvis-Benites-N/Elvis-Benites-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apasionado desarrollador web especializado en crear experiencias digitales atractivas y funcionales. Domino el frontend y backend. 
 
-Here are some ideas to get you started:
+## Habilidades magistrales 💪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Angular 14
+🌟 TypeScript  
+🌟 APIs RESTful  
+🌟 Node.js y NestJS  
+
+Me enfoco en **UI/UX intuitivo**, **rendimiento óptimo** y **calidad de código**.
+
+Aplico testing, debugging, documentación y seguimiento de issues para entregar apps robustas.
+
+## Colaboremos 🤝
+
+¿Necesitas un desarrollador? Escríbeme para iniciar tu próximo proyecto. 
+
+Encantado de aplicar mis skills en tu equipo. Vamos por más.
