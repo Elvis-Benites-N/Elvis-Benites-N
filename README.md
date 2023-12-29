@@ -1,20 +1,25 @@
-# Hola, soy Elvis 👨‍💻
+# Hi, I'm Elvis 👨‍💻
 
-Apasionado desarrollador web especializado en crear experiencias digitales atractivas y funcionales. Domino el frontend y backend. 
+Passionate web developer specialized in creating attractive and functional digital experiences. I master frontend and backend.
 
-## Habilidades magistrales 💪
+## Skills 💪  
 
-🌟 Angular 14
-🌟 TypeScript  
-🌟 APIs RESTful  
-🌟 Node.js y NestJS  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="20" height="20"/> Angular 14
 
-Me enfoco en **UI/UX intuitivo**, **rendimiento óptimo** y **calidad de código**.
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="20" height="20"/> TypeScript   
 
-Aplico testing, debugging, documentación y seguimiento de issues para entregar apps robustas.
+<img src="https://www.vectorlogo.zone/logos/apigee/apigee-icon.svg" width="20" height="20"/> REST APIs  
 
-## Colaboremos 🤝
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="20" height="20"/> Node.js  
 
-¿Necesitas un desarrollador? Escríbeme para iniciar tu próximo proyecto. 
+<img src="https://nestjs.com/img/logo-small.svg" width="20" height="20"/> NestJS
 
-Encantado de aplicar mis skills en tu equipo. Vamos por más.
+I focus on **intuitive UI/UX**, **optimal performance** and **code quality**.
+
+I apply testing, debugging, documentation and issue tracking to deliver robust apps.
+
+## Let's collaborate 🤝
+
+Do you need a developer? Write me to start your next project.  
+
+I would be delighted to apply my skills to your team. Let's do more.
