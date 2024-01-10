@@ -4,7 +4,9 @@ Passionate web developer specialized in creating attractive and functional digit
 
 ## Skills 💪  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="20" height="20"/> Angular 14
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="20" height="20"/> Angular
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="20" height="20"/> React
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="20" height="20"/> TypeScript   
 
