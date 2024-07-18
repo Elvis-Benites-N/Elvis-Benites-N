@@ -8,6 +8,8 @@ Passionate web developer specialized in creating attractive and functional digit
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="20" height="20"/> React
 
+<img src="https://www.svgrepo.com/show/349557/vue.svg" width="20" height="20"/> Vue
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="20" height="20"/> TypeScript   
 
 <img src="https://www.vectorlogo.zone/logos/apigee/apigee-icon.svg" width="20" height="20"/> REST APIs  
